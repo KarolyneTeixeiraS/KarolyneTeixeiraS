@@ -1,4 +1,4 @@
-### Olá me chamo Karolyne, sou desenvolvedora de software mas com foco em I.a 🖥️🤖
+### Olá me chamo Karolyne, sou desenvolvedora de software mas com foco em I.A 🖥️🤖
 #### Gosto de interligar tecnologia e meio ambiente e arte em geral 🎨
 
 ### Tecnologias Front-And
