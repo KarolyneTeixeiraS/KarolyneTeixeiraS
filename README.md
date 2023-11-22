@@ -13,6 +13,10 @@
     <img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
 <div>
 
+### Ferramenta
+<div style="displey inline_block"><br/>
+    <img align="center" alt="Vscode" src="https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+<div>
 
 __________________________________________________________________________________
 
