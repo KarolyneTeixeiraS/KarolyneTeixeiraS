@@ -1,5 +1,5 @@
 ### Olá me chamo Karolyne, sou desenvolvedora de software mas com foco em I.A 🖥️🤖
-#### Gosto de interligar tecnologia, meio ambiente e arte em geral 🎨
+#### Gosto de interligar tecnologia, meio ambiente, arte/artesanado como modelagem de personagens, etc.. 🎨
 
 ### Tecnologias Front-And
 <div style="displey inline_block"><br/>
